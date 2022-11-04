@@ -1,3 +1,3 @@
 # Training
 
-# This repository is for training purposes
+## This repository is for training purposes
